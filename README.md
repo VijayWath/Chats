@@ -1,5 +1,5 @@
 # Chats
 A general chat app. 
 
-Backend : Firebase 
+Backend : Firebase    
 State Manegment : riverpod
